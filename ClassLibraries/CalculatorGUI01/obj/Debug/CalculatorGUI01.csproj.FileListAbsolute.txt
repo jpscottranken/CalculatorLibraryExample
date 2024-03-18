@@ -1,0 +1,13 @@
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\bin\Debug\CalculatorGUI01.exe.config
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\bin\Debug\CalculatorGUI01.exe
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\bin\Debug\CalculatorGUI01.pdb
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.frmCalculatorGUI01.resources
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.exe
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\CalculatorGUI01.pdb
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\bin\Debug\CalculatorLibrary.dll
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\bin\Debug\CalculatorLibrary.pdb
+C:\Users\jpscott\Desktop\CalculatorLibraryExample\ClassLibraries\CalculatorGUI01\obj\Debug\Calculat.5E94F355.Up2Date
